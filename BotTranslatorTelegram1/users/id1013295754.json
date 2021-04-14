@@ -1,0 +1,80 @@
+{
+    "firstName": "Nikita",
+    "grade": 3,
+    "theme": "Одежда",
+    "complexity": 5,
+    "gradeAVG": 0,
+    "data": 0,
+    "progress": [
+        {
+            "Theme": "Одежда",
+            "Words": [
+                {
+                    "EN": "coat",
+                    "RU": "пальто",
+                    "grade": 4
+                },
+                {
+                    "EN": "trousers",
+                    "RU": "брюки",
+                    "grade": 2
+                },
+                {
+                    "EN": "shirt",
+                    "RU": "рубашка",
+                    "grade": 0
+                },
+                {
+                    "EN": "jacket",
+                    "RU": "куртка",
+                    "grade": 0
+                },
+                {
+                    "EN": "jeans",
+                    "RU": "джинсы",
+                    "grade": 0
+                },
+                {
+                    "EN": "dress",
+                    "RU": "платье",
+                    "grade": 0
+                }
+            ]
+        },
+        {
+            "Theme": "Книги",
+            "Words": [
+                {
+                    "EN": "writer",
+                    "RU": "писатель",
+                    "grade": 0
+                },
+                {
+                    "EN": "library",
+                    "RU": "библиотека",
+                    "grade": 0
+                },
+                {
+                    "EN": "magazine",
+                    "RU": "журнал",
+                    "grade": 0
+                },
+                {
+                    "EN": "plot",
+                    "RU": "сюжет",
+                    "grade": 0
+                },
+                {
+                    "EN": "title",
+                    "RU": "название",
+                    "grade": 0
+                },
+                {
+                    "EN": "a fairy tale",
+                    "RU": "сказка",
+                    "grade": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 470246045,
+            "message": {
+                "message_id": 1,
+                "from": {
+                    "id": 531871726,
+                    "is_bot": false,
+                    "first_name": "Nikita",
+                    "last_name": "Vasiliev",
+                    "username": "Orlanat"
+                },
+                "chat": {
+                    "id": 531871726,
+                    "first_name": "Nikita",
+                    "last_name": "Vasiliev",
+                    "username": "Orlanat",
+                    "type": "private"
+                },
+                "date": 1613301070,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 470246046,
+            "message": {
+                "message_id": 2,
+                "from": {
+                    "id": 531871726,
+                    "is_bot": false,
+                    "first_name": "Nikita",
+                    "last_name": "Vasiliev",
+                    "username": "Orlanat",
+                    "language_code": "ru"
+                },
+                "chat": {
+                    "id": 531871726,
+                    "first_name": "Nikita",
+                    "last_name": "Vasiliev",
+                    "username": "Orlanat",
+                    "type": "private"
+                },
+                "date": 1613301074,
+                "text": "qwewqrwe"
+            }
+        },
+        {
+            "update_id": 470246047,
+            "message": {
+                "message_id": 5,
+                "from": {
+                    "id": 1013295754,
+                    "is_bot": false,
+                    "first_name": "Алексей",
+                    "last_name": "Александров",
+                    "username": "Alex27012000"
+                },
+                "chat": {
+                    "id": 1013295754,
+                    "first_name": "Алексей",
+                    "last_name": "Александров",
+                    "username": "Alex27012000",
+                    "type": "private"
+                },
+                "date": 1613302187,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 470246048,
+            "message": {
+                "message_id": 11,
+                "from": {
+                    "id": 531871726,
+                    "is_bot": false,
+                    "first_name": "Nikita",
+                    "last_name": "Vasiliev",
+                    "username": "Orlanat",
+                    "language_code": "ru"
+                },
+                "chat": {
+                    "id": 531871726,
+                    "first_name": "Nikita",
+                    "last_name": "Vasiliev",
+                    "username": "Orlanat",
+                    "type": "private"
+                },
+                "date": 1613302265,
+                "text": "asdfg"
+            }
+        },
+        {
+            "update_id": 470246049,
+            "message": {
+                "message_id": 15,
+                "from": {
+                    "id": 1013295754,
+                    "is_bot": false,
+                    "first_name": "Алексей",
+                    "last_name": "Александров",
+                    "username": "Alex27012000",
+                    "language_code": "ru"
+                },
+                "chat": {
+                    "id": 1013295754,
+                    "first_name": "Алексей",
+                    "last_name": "Александров",
+                    "username": "Alex27012000",
+                    "type": "private"
+                },
+                "date": 1613302279,
+                "text": "ты пидорас"
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "firstName": "Nikita",
+    "grade": 3,
+    "theme": "Книги",
+    "complexity": 5,
+    "gradeAVG": 0,
+    "data": 0,
+    "progress": [
+        {
+            "Theme": "Одежда",
+            "Words": [
+                {
+                    "EN": "dress",
+                    "RU": "платье",
+                    "grade": 4
+                },
+                {
+                    "EN": "coat",
+                    "RU": "пальто",
+                    "grade": 0
+                },
+                {
+                    "EN": "trousers",
+                    "RU": "брюки",
+                    "grade": 2
+                },
+                {
+                    "EN": "jacket",
+                    "RU": "куртка",
+                    "grade": 2
+                },
+                {
+                    "EN": "jeans",
+                    "RU": "джинсы",
+                    "grade": 4
+                },
+                {
+                    "EN": "shirt",
+                    "RU": "рубашка",
+                    "grade": 0
+                }
+            ]
+        },
+        {
+            "Theme": "Книги",
+            "Words": [
+                {
+                    "EN": "library",
+                    "RU": "библиотека",
+                    "grade": 0
+                },
+                {
+                    "EN": "a fairy tale",
+                    "RU": "сказка",
+                    "grade": 0
+                },
+                {
+                    "EN": "title",
+                    "RU": "название",
+                    "grade": 0
+                },
+                {
+                    "EN": "plot",
+                    "RU": "сюжет",
+                    "grade": 2
+                },
+                {
+                    "EN": "magazine",
+                    "RU": "журнал",
+                    "grade": 0
+                },
+                {
+                    "EN": "writer",
+                    "RU": "писатель",
+                    "grade": 0
+                }
+            ]
+        }
+    ]
+}

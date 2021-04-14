@@ -1,0 +1,23 @@
+{
+    "update_id": 470246568,
+    "message": {
+        "message_id": 809,
+        "from": {
+            "id": 1013295754,
+            "is_bot": false,
+            "first_name": "Алексей",
+            "last_name": "Александров",
+            "username": "Alex27012000",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 1013295754,
+            "first_name": "Алексей",
+            "last_name": "Александров",
+            "username": "Alex27012000",
+            "type": "private"
+        },
+        "date": 1616318966,
+        "text": "Шцшушц"
+    }
+}
